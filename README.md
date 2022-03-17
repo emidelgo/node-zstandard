@@ -1,7 +1,11 @@
+##
+
+Fork to upgrade the npm module to the newer Zstd versions.
+
 # node-zstandard
 Node.js interface to Zstandard (zstd)
 
-Includes Zstd 1.0.0 version for Linux (x86-64, glibc >=2.19), Windows (32 and 64 bits), and Mac OS X (Darwin).
+Includes Zstd 1.5.2 version for Linux (x86-64, glibc >=2.31), Windows (32 and 64 bits), and Zstd 1.0.0 version Mac OS X (Darwin).
 
 ## Interface
 
