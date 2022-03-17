@@ -1,15 +1,15 @@
 ##
 
-Fork to upgrade the npm module to the newer Zstd versions.
+Fork of the original `node-standard` npm package to upgrade the module to newer Zstd versions.
 
-# node-zstandard
+# @handypkgs/node-zstandard
 Node.js interface to Zstandard (zstd)
 
 Includes Zstd 1.5.2 version for Linux (x86-64, glibc >=2.31), Windows (32 and 64 bits), and Zstd 1.0.0 version Mac OS X (Darwin).
 
 ## Interface
 
-`var zstd = require ('node-zstandard')`
+`var zstd = require ('@handypkgs/node-zstandard')`
 
 ### Compression
 
