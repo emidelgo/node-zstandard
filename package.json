@@ -1,6 +1,6 @@
 {
-  "name": "node-zstandard",
-  "version": "1.2.4",
+  "name": "@handypkgs/node-zstandard",
+  "version": "1.2.5",
   "description": "Node.js interface to Zstandard (zstd)",
   "main": "index.js",
   "scripts": {
@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/albertdb/node-zstandard.git"
+    "url": "git+https://github.com/emidelgo/node-zstandard.git"
   },
   "keywords": [
     "zstandard",
     "zstd"
   ],
-  "author": "Albert Duato Botam",
+  "author": "Albert Duato Botam, Emiliano del Gobbo",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/albertdb/node-zstandard/issues"
+    "url": "https://github.com/emidelgo/node-zstandard/issues"
   },
-  "homepage": "https://github.com/albertdb/node-zstandard#readme"
+  "homepage": "https://github.com/emidelgo/node-zstandard#readme"
 }
